@@ -1,1 +1,2 @@
 Ramana
+is learnig git and devops
